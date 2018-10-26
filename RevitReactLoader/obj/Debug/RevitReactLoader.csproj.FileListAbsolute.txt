@@ -1,0 +1,12 @@
+E:\Projects\RevitReactLoader\RevitReactLoader\bin\Debug\RevitReactLoader.exe.config
+E:\Projects\RevitReactLoader\RevitReactLoader\bin\Debug\RevitReactLoader.exe
+E:\Projects\RevitReactLoader\RevitReactLoader\bin\Debug\RevitReactLoader.pdb
+E:\Projects\RevitReactLoader\RevitReactLoader\bin\Debug\DotNetBrowser.Chromium.dll
+E:\Projects\RevitReactLoader\RevitReactLoader\bin\Debug\DotNetBrowser.dll
+E:\Projects\RevitReactLoader\RevitReactLoader\bin\Debug\DotNetBrowser.xml
+E:\Projects\RevitReactLoader\RevitReactLoader\obj\Debug\RevitReactLoader.csprojResolveAssemblyReference.cache
+E:\Projects\RevitReactLoader\RevitReactLoader\obj\Debug\RevitReactLoader.Form1.resources
+E:\Projects\RevitReactLoader\RevitReactLoader\obj\Debug\RevitReactLoader.Properties.Resources.resources
+E:\Projects\RevitReactLoader\RevitReactLoader\obj\Debug\RevitReactLoader.csproj.GenerateResource.Cache
+E:\Projects\RevitReactLoader\RevitReactLoader\obj\Debug\RevitReactLoader.exe
+E:\Projects\RevitReactLoader\RevitReactLoader\obj\Debug\RevitReactLoader.pdb
