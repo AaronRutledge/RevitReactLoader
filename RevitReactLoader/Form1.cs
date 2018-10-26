@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using DotNetBrowser;
 using DotNetBrowser.WinForms;
+using System.IO;
 
 namespace RevitReactLoader
 {
@@ -22,9 +23,9 @@ namespace RevitReactLoader
             browserWindow.Dock = DockStyle.Fill;
             Controls.Add(browserWindow);
             browserView.Browser.FullScreenHandler = new SampleFullScreenHandler(this, browserView);
+            string addInFolder = Path.GetDirectoryName(typeof(Form1).Assembly.Location);
             BrowserForm browserForm = new BrowserForm(Path.Combine(addInFolder, "ui-build", @"index.html#/edit"), 800, 1100,{});
-            browserView.Browser.LoadURL("http://www.google.com");
-
+        
 
         }
     }
